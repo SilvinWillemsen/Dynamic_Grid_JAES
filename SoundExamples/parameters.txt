@@ -3,7 +3,10 @@ This file shows the parameters used to create the sound files in this folder.
 Some parameters have been made time varying and "morph" the physics from one state to the next.
 All simulations ran at a sample rate of fs = 44.1 kHz, and the models are excited every half-second.
 
-The number of states is provided for each file as well as the (fractional) number of intervals over the course of the simulation. Arrows indicate parameter values between states. Parameters influencing pitch, change in a way that the resulting change in fundamental frequency is as linear as possible. Parameters with only one value are unchanged during the simulation.
+The number of states is provided for each file as well as the (fractional) number of intervals over the course of the simulation. 
+Arrows indicate parameter values between states. 
+Parameters influencing pitch, change in a way that the resulting change in fundamental frequency is as linear as possible. 
+Parameters with only one value are unchanged during the simulation.
 
 1D:
 
