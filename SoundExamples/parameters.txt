@@ -15,7 +15,7 @@ Parameters with only one value are unchanged during the simulation.
 	Density (rho): 7850
 	Radius (r): 2e-4
 	Tension (T): 157.83 -> 157.58
-	Youngs Modulus (E): 2e11
+	Youngs Modulus (E): 2e11 -> 2e13
 	Freq. Indep. Damping (sigma0): 1
 	Freq. Dep. Damping (sigma1): 0.005
 
