@@ -1,6 +1,8 @@
 This file shows the parameters used to create the sound files in this folder.
 
-Some parameters have been made time varying and "morph" the physics from one state to the next. The wave speed c and the stiffness coefficient kappa (as used in the paper) are written out in their physical parameters here, and are related to each other as follows: c = sqrt(T/(rho * A)), kappa = sqrt(E * r^2 / (4 * rho)).
+Some parameters have been made time varying and "morph" the physics from one state to the next. 
+The wave speed c and the stiffness coefficient kappa (as used in the paper) are written out in their physical parameters here, 
+and are related to each other as follows: c = sqrt(T/(rho * A)), kappa = sqrt(E * r^2 / (4 * rho)).
 
 All simulations ran at a sample rate of fs = 44.1 kHz, and the models are excited every half-second.
 
